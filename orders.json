@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ORD-1",
+    "items": [
+      [
+        "Samosa",
+        2,
+        2000
+      ],
+      [
+        "Samosa",
+        2,
+        2000
+      ],
+      [
+        "Water",
+        6,
+        6000
+      ]
+    ],
+    "subtotal": 10000,
+    "delivery_fee": 3000,
+    "total": 13000,
+    "rider": "Lule",
+    "status": "Pending"
+  }
+]
